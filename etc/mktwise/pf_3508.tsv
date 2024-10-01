@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3508	CAC 40@EOP	[111111111111]	1	0.03%	08:00	22:00	8	17:35	CFA Index	FCE	12:00	08:00	20	Vwap	10	08:10	09:10	EOP	CAC40	MONEP		Y	Y	N	N	N	N	

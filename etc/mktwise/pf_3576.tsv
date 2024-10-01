@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3576	Spain Index@MFM	[111111111111]	1	0.03%	08:00	20:00	8	17:30	IBA Index	MFXI	12:30	08:00	20	Vwap	10	08:20	09:20	MFM	IBEX35	MEFFRV		Y	Y	N	N	N	N	

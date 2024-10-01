@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1305	London Cocoa No. 7@LIF	[001010101001]	1	0.05%	09:30	16:55	8	16:50	QCA Comdty	LCC	09:35	09:35	30	Vwap	20	10:40	11:40	LIF	C	ICEEUSOFT		Y	Y	Y	Y	Y	Y	Fix BST time

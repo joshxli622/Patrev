@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3201	USD Index@FNX	[001001001001]	1	0.01%	20:00	18:00	8	15:00	DXA Curncy	DX	02:00	02:00	20	Vwap	10	00:20	01:20	FNX	DX	NYBOT		Y	Y	Y	Y	Y	Y	

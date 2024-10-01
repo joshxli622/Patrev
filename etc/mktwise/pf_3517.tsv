@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3517	Nikkei 225@OSE	[001001001001]	1	0.03%	08:45	15:10	8	15:10	NKA Index	JNI	12:00	07:00	20	Vwap	10	09:20	10:20	OSE	N225	OSE.JPN		Y	Y	N	N	N	Y	

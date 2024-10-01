@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1306	Cocoa@NYB	[001010101001]	1	0.05%	05:45	13:30	8	11:50	CCA Comdty	CC	05:50	05:50	30	Vwap	20	06:00	07:00	NYB	CC	NYBOT		Y	Y	Y	Y	Y	Y	

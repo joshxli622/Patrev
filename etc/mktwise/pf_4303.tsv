@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	4303	Gold @CMX	[010101010001]	1	0.05%	18:00	17:00	8	13:30	GCA Comdty	GC	07:05	07:05	20	Vwap	10	07:15	08:15	CMX	GC	NYMEX	08:20	Y	Y	Y	Y	Y	Y	

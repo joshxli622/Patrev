@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3514	FTSE 100@LIF	[001001001001]	1	0.03%	01:00	21:00	8	16:30	Z A Index	FFI	01:05	01:05	20	Vwap	10	07:10	08:10	LIF	Z	ICEEU		Y	Y	N	N	Y	N	

@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1101	Corn@CBT	[001010100001]	1	0.05%	19:00	13:20	8	13:15	C A Comdty	C	08:35	12:00	20	Vwap	10	10:40	11:40	CBT	ZC	ECBOT		Y	Y	Y	Y	Y	Y	

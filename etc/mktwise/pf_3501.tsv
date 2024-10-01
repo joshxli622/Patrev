@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3501	E-Mini@CME	[001001001001]	1	0.01%	17:00	16:00	8	15:15	ESA Index	ES	07:00	10:30	20	Vwap	10	08:00	09:00	CME	ES	GLOBEX		Y	Y	Y	Y	Y	Y	

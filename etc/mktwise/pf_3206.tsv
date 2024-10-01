@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3206	EUR/USD@CME	[001001001001]	1	0.01%	17:00	16:00	8	14:00	ECA Curncy	URO	07:00	00:10	20	Vwap	10	07:10	08:10	CME	EUR	GLOBEX	17:00	Y	Y	Y	Y	Y	Y	

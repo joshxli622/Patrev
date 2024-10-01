@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3511	DAX Index@EUX	[001001001001]	1	0.03%	08:00	22:05	8	17:30	GXA Index	FDX	12:00	08:00	20	Vwap	10	09:10	10:10	EUX	DAX	DTB		Y	Y	Y	Y	N	Y	

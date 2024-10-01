@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3518	CNX Nifty @SGX	[111111111111]	1	0.03%	09:00	18:15	8	18:10	IHA Index	SIN	12:00	09:00	20	Vwap	10	11:40	12:40	SGX	NIFTY	SGX		Y	Y	N	N	N	N	

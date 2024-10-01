@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	4106	Copper@CMX	[001010101001]	1	0.05%	18:00	17:00	8	13:00	HGA Comdty	HG	19:05	00:10	20	Vwap	10	20:10	22:10	CMX	HG	NYMEX	08:10	Y	Y	Y	Y	Y	Y	

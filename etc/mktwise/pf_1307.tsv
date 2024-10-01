@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1307	Coffee C@NYB	[001010101001]	1	0.05%	05:15	13:30	8	13:25	KCA Comdty	KC	05:20	05:20	30	Vwap	10	05:30	06:30	NYB	KC	NYBOT		Y	Y	Y	Y	Y	Y	

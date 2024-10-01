@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3532	Amsterdam Index@EOE	[111111111111]	1	0.03%	08:00	22:00	8	17:35	EOA Index		08:05	08:05	20	Vwap	10	09:00	10:00	EOE	EOE	FTA		Y	Y	N	N	N	N	

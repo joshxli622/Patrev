@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3115	10-year Italian Govt Bond@EUX	[001001001001]	1	0.01%	08:00	19:06	8	17:15	IKA Comdty	FBTP	12:00	10:30	20	Vwap	10	08:05	09:05	EUX	BTP	DTB		Y	Y	N	Y	N	N	

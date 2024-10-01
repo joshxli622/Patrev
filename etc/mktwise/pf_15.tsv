@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1504	Euro Rapeseed@EOP	[010010010010]	1	0.07%	10:45	18:30	8	18:30	IJA Comdty	COM	10:50	10:50	20	Vwap	10	11:00	12:00	EOP	ECO	MATIF		Y	Y	N	Y	N	N	

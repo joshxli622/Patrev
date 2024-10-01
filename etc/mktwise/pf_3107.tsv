@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	3107	Long Gilt@LIF	[001001001001]	1	0.01%	08:00	18:00	8	16:15	G A Comdty	FLG	12:00	12:30	20	Vwap	10	09:10	10:10	LIF	R	ICEEU		Y	Y	Y	Y	Y	N	

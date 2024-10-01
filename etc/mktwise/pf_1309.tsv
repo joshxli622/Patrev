@@ -1,0 +1,2 @@
+Trade	MktID	MarketName	TradableMnth	Weight	Slpg	Open	Close	CtCnt	Settle	BB	RIC	Tm1	Tm2	EnEndAdj	ExOT	ExPeriod	RebBegin	RebEnd	BBExch	IBRoot	IBExch	OpenReg	URic	UIB	UR2NIntra	UPatrev2d	UEm	ProdWithAsian	Note
+Y	1309	Sugar@LIF	[001010010101]	1	0.05%	08:45	17:00	8	17:55	QWA Comdty	LSU	08:50	08:50	30	Vwap	20	08:50	09:50	LIF	W	ICEEUSOFT		Y	Y	Y	Y	Y	Y	Fix EDT time
